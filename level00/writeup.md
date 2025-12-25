@@ -14,7 +14,7 @@ The first level introduces basic Linux file enumeration and simple cipher decryp
 
 ## 🔍 Reconnaissance
 
-### Finding Files Owned by flag00
+### Finding Files owned by flag00
 
 ```bash
 level00@SnowCrash:/$ find / -user flag00 2>/dev/null
